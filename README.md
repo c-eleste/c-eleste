@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Ketlyn Beatriz Santos]!
+#  Olá, eu sou [Ketlyn Beatriz Santos]!
 
 ### 🛡️ Analista de Cibersegurança Jr. | Redes & Segurança da Informação
 

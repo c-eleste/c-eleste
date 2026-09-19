@@ -31,7 +31,7 @@ Profissional em consolidação na área de **Tecnologia, Redes e Cibersegurança
 - Windows | Linux
 - Cisco Packet Tracer
 - Pacote Office | Google Workspace
-- Git & GitHub
+
 
 ---
 
